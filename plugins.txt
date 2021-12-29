@@ -73,4 +73,3 @@ timestamper
 token-macro
 uno-choice
 windows-slaves
-ws-cleanup
